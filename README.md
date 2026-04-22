@@ -1,6 +1,8 @@
 # 📄 Brazil Agriculture Digital Transformation — Research Analysis
 
 > Research paper analyzing how AI, IoT, big data, and agentic systems are reshaping Brazil's agricultural sector, sustainability practices, and global supply chains.
+>
+> View Word Document File to Read Essay
 
 [![View Repository](https://img.shields.io/badge/📂_View_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aoadenus/brazil-agriculture-digital-transformation)
 
